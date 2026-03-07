@@ -93,7 +93,6 @@ license: "CC BY"
 
 ![Правильность компиляции отчета](image/13.png){#fig-013 width=70%}
 
-{{<include ../project/markdown/01_exponential_growth/01_exponential_growth.qmd>}} 
 
 
 
