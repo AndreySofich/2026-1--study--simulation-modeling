@@ -6,7 +6,7 @@ standalone: true
 self-contained: true
 
 ## Julia support
-# engine: julia
+engine: julia
 # julia:
 #   exeflags: ["--project=../project"]
 
